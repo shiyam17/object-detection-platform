@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.pyc
@@ -14,3 +15,12 @@ runs/
 # OS files
 .DS_Store
 Thumbs.db
+=======
+__pycache__/
+*.pt
+*.cache
+runs/
+.env
+.vscode/
+.ipynb_checkpoints/
+>>>>>>> 526655008c87dc672b1d75a0b85c39194e7d2381
